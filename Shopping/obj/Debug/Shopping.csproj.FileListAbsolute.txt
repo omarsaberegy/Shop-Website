@@ -1,0 +1,86 @@
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Shopping.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Shopping.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Shopping.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\obj\Debug\Shopping.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\obj\Debug\Shopping.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Owin.dll
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hp\documents\visual studio 2013\Projects\Shopping\Shopping\bin\Newtonsoft.Json.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Shopping.dll.config
+E:\FCIS\Projects\Shopping\Shopping\bin\Shopping.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Shopping.pdb
+E:\FCIS\Projects\Shopping\Shopping\bin\EntityFramework.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\EntityFramework.SqlServer.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Newtonsoft.Json.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\Owin.dll
+E:\FCIS\Projects\Shopping\Shopping\bin\EntityFramework.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\EntityFramework.SqlServer.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FCIS\Projects\Shopping\Shopping\bin\Newtonsoft.Json.xml
+E:\FCIS\Projects\Shopping\Shopping\obj\Debug\Shopping.dll
+E:\FCIS\Projects\Shopping\Shopping\obj\Debug\Shopping.pdb
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Shopping.dll.config
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Shopping.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Shopping.pdb
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\EntityFramework.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\EntityFramework.SqlServer.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Newtonsoft.Json.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Owin.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\EntityFramework.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\EntityFramework.SqlServer.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\bin\Newtonsoft.Json.xml
+E:\FCIS\Projects\Shopping Website .Net\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache
+E:\FCIS\Projects\Shopping Website .Net\Shopping\obj\Debug\Shopping.dll
+E:\FCIS\Projects\Shopping Website .Net\Shopping\obj\Debug\Shopping.pdb

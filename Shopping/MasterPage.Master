@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Shopping.MasterPage" %>
+
+<!DOCTYPE html >
+<html>
+<head runat="server">
+    <title>Online-Shopping</title>
+    <link rel="stylesheet" href="Styles/StyleSheet1.css" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="wrapper">
+            <div id="banner">
+                
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/koko.png" Width="100%" Height="200px" />
+
+            </div>
+            <div id="navigator" style="background: linear-gradient(to top, #c2bcb5, #ffffff)">
+                <ul id="nav" >
+                    <li><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Index.aspx">Products</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Pages/Filters.aspx">Categories</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Pages/Search.aspx">Search</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Pages/About.aspx">About Us</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Pages/Management/Management.aspx">Management</asp:HyperLink></li>
+                    <li style="float:right">
+                        <asp:HyperLink ID="lnkRegister" NavigateUrl="~/Pages/Account/Register.aspx" runat="server">Register</asp:HyperLink>
+                        <asp:HyperLink ID="LiStatus" runat="server" NavigateUrl="~/Pages/ShoppingCart.aspx"></asp:HyperLink>
+                    </li>
+                    <li style="float:right">
+                         <asp:HyperLink ID="LnkSignI" NavigateUrl="~/Pages/Account/LogIn.aspx" runat="server">Log In</asp:HyperLink>
+                        <asp:LinkButton ID="LnkSignout" runat="server" OnClick="LnkSignout_Click">Log Out</asp:LinkButton>
+                    </li>
+
+                       
+                    
+                </ul>
+            </div>
+            <div id="content">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer" style="text-align:center; height:40px; position:relative; top:20px; color:black; background:linear-gradient(to top,#c2bcb5,#FFFFFF)">
+
+                All Rigths Reserverd @ O_S 2018</div>
+            
+        </div>
+       
+        </div>
+        
+    
+    </form>
+</body>
+</html>

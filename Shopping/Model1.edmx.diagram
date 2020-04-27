@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dc1b585082114a6885bb6e0e4ce348bd" Name="Diagram1">
+        <EntityTypeShape EntityType="ShopModel.Category" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopModel.Order" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopModel.Product" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="ShopModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopModel.FK_Order_Product" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ShopModel.UserInformation" Width="1.5" PointX="7.25" PointY="1.125" />
+        <EntityTypeShape EntityType="ShopModel.C__MigrationHistory" Width="1.5" PointX="7.75" PointY="5.75" />
+        <EntityTypeShape EntityType="ShopModel.AspNetRole" Width="1.5" PointX="0.75" PointY="7.5" />
+        <EntityTypeShape EntityType="ShopModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="6" />
+        <EntityTypeShape EntityType="ShopModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="8.75" />
+        <EntityTypeShape EntityType="ShopModel.AspNetUser" Width="1.5" PointX="3" PointY="6.375" />
+        <EntityTypeShape EntityType="ShopModel.sysdiagram" Width="1.5" PointX="7.75" PointY="8.75" />
+        <AssociationConnector Association="ShopModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="ShopModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="ShopModel.AspNetUserRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
